@@ -1,0 +1,4 @@
+railstrials
+===========
+
+Trial projects
